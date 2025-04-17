@@ -12,6 +12,7 @@ Add this story to our list: Abby is a weight loss coach, As coach, she wants to 
 This is great! Can you summarize the system we have built so far, taking all the requirements, features, use cases, and user stories into account, then create a new requirements document from it?
 ## Features
 Can you take these stories and convert them into a comperhensive feature list for me?
+Can you take these features and turn them into a requirements document? The system will build with PHP and MySQL and use HTML and CSS, with Javascript. The installation file should build the database, which may require the user to create a database.
 ## Timelines
 If I wanted to create a general timeline for this project, could you help me with that? Please create a 4-month, 6-month, and 12-month timeline for this project.
 I fear you misunderstood me. I'd like timeline where the entire project can be completed in 4 months, 6 months, or 12 months.
